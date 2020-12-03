@@ -1,5 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
-.filters, .cart-item {
+.filters, .cart-item, .product-btn {
     font-size: small;
 }
 .card, .form-control, .btn {
@@ -15,5 +15,10 @@
     border-bottom-right-radius: 0;
 }
 img {
-    width: 220px;
+    width: 100%;
+    padding: 10px;
+}
+img:hover {
+    transition: all 0.2s ease;
+    padding: 0;
 }
