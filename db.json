@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Square Clutching",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 99,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-JpWC6BLcH6Qu6LxfRD60scKGwufLsfRV3w&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "name": "Rubik's Cube",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old",
+      "price": 199,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpKiFvcGHJX5qWOqxhz-6sDKxiYzpROcewLw&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "name": "Teddy Bear",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+      "price": 299,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5GemBk6GcqH1y7wowaQL-FgJq3JtaWXABeA&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "name": "Square Glasses",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour",
+      "price": 399,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEeWBJZwTqCHYzSpPw0m6u2Zl16_vnSKPUzQ&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "name": "Frozen Square",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+      "price": 99,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAR6wvfIEXjYk_-8cu-1vZ1C7g51Ao28f7KA&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "name": "Kids Bath Tub",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
+      "price": 99,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3_eN4zZToKBE53fnsDAcmgiS4rVEIC5_1mw&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "name": "Magic Square 2 Layers",
+      "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system",
+      "price": 99,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIURJB7xmu00-Yw9vs8-Qukp50RaSIBRHDiw&usqp=CAU"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
